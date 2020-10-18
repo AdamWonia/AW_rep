@@ -1,0 +1,30 @@
+.tlo
+{
+	background-color: #CCCCFF
+}
+
+.naglowek1
+{
+	padding: 15px;
+	text-align: center;
+	color: #9900CC;
+	text-decoration: underline;
+}
+
+.tekst1
+{
+	color: white;
+	background-color: #6666CC;
+	padding: 15px;
+}
+
+.tresc
+{
+	color: black;
+	padding: 15px;
+}
+
+a
+{
+   text-decoration: none;
+}
